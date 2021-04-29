@@ -1,0 +1,1916 @@
+fileFormatVersion: 2
+guid: bb9864aa5d8823f4395f072dceb20b2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2738253521464851856
+    second: rollo_0
+  - first:
+      213: 3447725062772565965
+    second: rollo_1
+  - first:
+      213: -1637263475559964931
+    second: rollo_2
+  - first:
+      213: -6971197104531181093
+    second: rollo_3
+  - first:
+      213: -8127842770424191722
+    second: rollo_4
+  - first:
+      213: 1754131755982283249
+    second: rollo_5
+  - first:
+      213: 1380862540805974165
+    second: rollo_6
+  - first:
+      213: -8671798166189212776
+    second: rollo_7
+  - first:
+      213: -6501643903259730386
+    second: rollo_8
+  - first:
+      213: -4129551750417515524
+    second: rollo_9
+  - first:
+      213: -7018400240971482262
+    second: rollo_10
+  - first:
+      213: -1062281057887614108
+    second: rollo_11
+  - first:
+      213: -8755079637220705671
+    second: rollo_12
+  - first:
+      213: -8640157463187907344
+    second: rollo_13
+  - first:
+      213: 4924922078869768037
+    second: rollo_14
+  - first:
+      213: 5454750199196245704
+    second: rollo_15
+  - first:
+      213: -3239422634497083962
+    second: rollo_16
+  - first:
+      213: 5502383746829874911
+    second: rollo_17
+  - first:
+      213: -2069926328402305292
+    second: rollo_18
+  - first:
+      213: -5991156225934965905
+    second: rollo_19
+  - first:
+      213: 8193104557098780534
+    second: rollo_20
+  - first:
+      213: -3443442973595753036
+    second: rollo_21
+  - first:
+      213: -5267143467849403831
+    second: rollo_22
+  - first:
+      213: -7583251835641785215
+    second: rollo_23
+  - first:
+      213: -497507479622399203
+    second: rollo_24
+  - first:
+      213: 7227116629113959266
+    second: rollo_25
+  - first:
+      213: -4070739011986982546
+    second: rollo_26
+  - first:
+      213: -997398283117707884
+    second: rollo_27
+  - first:
+      213: 6907810111486606663
+    second: rollo_28
+  - first:
+      213: -3611847252335874878
+    second: rollo_29
+  - first:
+      213: 4271078500553147945
+    second: rollo_30
+  - first:
+      213: -7121670373344170698
+    second: rollo_31
+  - first:
+      213: 9177153769978491511
+    second: rollo_32
+  - first:
+      213: 3563362676004390253
+    second: rollo_33
+  - first:
+      213: 6506803063347234892
+    second: rollo_34
+  - first:
+      213: -8995593436270210041
+    second: rollo_35
+  - first:
+      213: 4431510377946801189
+    second: rollo_36
+  - first:
+      213: 609666530065745967
+    second: rollo_37
+  - first:
+      213: 8076301261401627645
+    second: rollo_38
+  - first:
+      213: -3607984649594169739
+    second: rollo_39
+  - first:
+      213: -3611869662920912693
+    second: rollo_40
+  - first:
+      213: 4263800557485973231
+    second: rollo_41
+  - first:
+      213: -6810756107870275768
+    second: rollo_42
+  - first:
+      213: -2697520177358319264
+    second: rollo_43
+  - first:
+      213: -3064052138091149745
+    second: rollo_44
+  - first:
+      213: -8276961811780874917
+    second: rollo_45
+  - first:
+      213: -4002420593867810320
+    second: rollo_46
+  - first:
+      213: 6896629966748418366
+    second: rollo_47
+  - first:
+      213: -1592090919939008404
+    second: rollo_48
+  - first:
+      213: -1621360221440721909
+    second: rollo_49
+  - first:
+      213: 4069025224782223341
+    second: rollo_50
+  - first:
+      213: 234559053515482691
+    second: rollo_51
+  - first:
+      213: -2834861598636256963
+    second: rollo_52
+  - first:
+      213: 2367062040631031162
+    second: rollo_53
+  - first:
+      213: -558037368897419626
+    second: rollo_54
+  - first:
+      213: 3310483389900101105
+    second: rollo_55
+  - first:
+      213: -8301385214949497884
+    second: rollo_56
+  - first:
+      213: 6941347599795216205
+    second: rollo_57
+  - first:
+      213: 5496595545607418209
+    second: rollo_58
+  - first:
+      213: -4007329757298401699
+    second: rollo_59
+  - first:
+      213: 788068389399540060
+    second: rollo_60
+  - first:
+      213: -622616972415534777
+    second: rollo_61
+  - first:
+      213: 6728579186095320784
+    second: rollo_62
+  - first:
+      213: -5453137911932953134
+    second: rollo_63
+  - first:
+      213: 3249321399920273130
+    second: rollo_64
+  - first:
+      213: 2889885536938368386
+    second: rollo_65
+  - first:
+      213: 2577462370989488598
+    second: rollo_66
+  - first:
+      213: -3575743483579513535
+    second: rollo_67
+  - first:
+      213: 3415521145092555905
+    second: rollo_68
+  - first:
+      213: -4347555374877841299
+    second: rollo_69
+  - first:
+      213: 8724897386544045559
+    second: rollo_70
+  - first:
+      213: 6476424707652407776
+    second: rollo_71
+  - first:
+      213: -5884682922310878896
+    second: rollo_72
+  - first:
+      213: -8562960582794027011
+    second: rollo_73
+  - first:
+      213: -1852396175820333682
+    second: rollo_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rollo_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1609
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dffd3e11b300620800000000000000
+      internalID: 2738253521464851856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1609
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc725c18da7c8df20800000000000000
+      internalID: 3447725062772565965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1609
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfed6872b854749e0800000000000000
+      internalID: -1637263475559964931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1609
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1ff2d1b25514f90800000000000000
+      internalID: -6971197104531181093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1609
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615a3ae301a143f80800000000000000
+      internalID: -8127842770424191722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1602
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f16e8cc98de75810800000000000000
+      internalID: 1754131755982283249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1603
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598226c2a2fc92310800000000000000
+      internalID: 1380862540805974165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_7
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1599
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b7864538597a780800000000000000
+      internalID: -8671798166189212776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1600
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e9e12315585c5a0800000000000000
+      internalID: -6501643903259730386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_9
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1611
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb75c2ff82e0b6c0800000000000000
+      internalID: -4129551750417515524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_10
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1606
+        width: 109
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bf0697a22a99e90800000000000000
+      internalID: -7018400240971482262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_11
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1595
+        width: 152
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b8bfc81050241f0800000000000000
+      internalID: -1062281057887614108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_12
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1639
+        width: 168
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a3433d475bf7680800000000000000
+      internalID: -8755079637220705671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_13
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1611
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc9e33909ef71880800000000000000
+      internalID: -8640157463187907344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_14
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1613
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567c2819986d85440800000000000000
+      internalID: 4924922078869768037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_15
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1614
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce5599d76a23bb40800000000000000
+      internalID: 5454750199196245704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_16
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1616
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5f071f6424b03d0800000000000000
+      internalID: -3239422634497083962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 144
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd67da76dd46c5c40800000000000000
+      internalID: 5502383746829874911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1344
+        width: 144
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe1a54a8f42643e0800000000000000
+      internalID: -2069926328402305292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1344
+        width: 144
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63c64fa7232bdca0800000000000000
+      internalID: -5991156225934965905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1344
+        width: 144
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677c18d8f21c3b170800000000000000
+      internalID: 8193104557098780534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_21
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1344
+        width: 144
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a2821cde6630d0800000000000000
+      internalID: -3443442973595753036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1344
+        width: 144
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94231d92ce857e6b0800000000000000
+      internalID: -5267143467849403831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1344
+        width: 144
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1841e3e12a0e2c690800000000000000
+      internalID: -7583251835641785215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_24
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1344
+        width: 144
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bc10c459f7819f0800000000000000
+      internalID: -497507479622399203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_25
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1344
+        width: 144
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263f7a48840eb4460800000000000000
+      internalID: 7227116629113959266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_26
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1344
+        width: 144
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69f031bf64d187c0800000000000000
+      internalID: -4070739011986982546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1084
+        width: 144
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d3f23cb878822f0800000000000000
+      internalID: -997398283117707884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1084
+        width: 167
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74db20f72b87ddf50800000000000000
+      internalID: 6907810111486606663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1084
+        width: 135
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccac857f0420edc0800000000000000
+      internalID: -3611847252335874878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1084
+        width: 151
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9264741644be54b30800000000000000
+      internalID: 4271078500553147945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_31
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1084
+        width: 131
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da565178eba2d90800000000000000
+      internalID: -7121670373344170698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_32
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1084
+        width: 167
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77274bc2bbccb5f70800000000000000
+      internalID: 9177153769978491511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_33
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1084
+        width: 145
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65802d697b937130800000000000000
+      internalID: 3563362676004390253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_34
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1082
+        width: 239
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c484c3e59eecc4a50800000000000000
+      internalID: 6506803063347234892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_35
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1082
+        width: 220
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704574f2e6b392380800000000000000
+      internalID: -8995593436270210041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 824
+        width: 144
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524e9f7a533ef7d30800000000000000
+      internalID: 4431510377946801189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 824
+        width: 166
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28830c9a78f57800800000000000000
+      internalID: 609666530065745967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 824
+        width: 130
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb12e80539c41070800000000000000
+      internalID: 8076301261401627645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_39
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 824
+        width: 141
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57690edb31dddedc0800000000000000
+      internalID: -3607984649594169739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_40
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 824
+        width: 134
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0d6969daf00edc0800000000000000
+      internalID: -3611869662920912693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_41
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 824
+        width: 167
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee501634001c2b30800000000000000
+      internalID: 4263800557485973231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_42
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 824
+        width: 145
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847f192a7655b71a0800000000000000
+      internalID: -6810756107870275768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_43
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 824
+        width: 220
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061db16d0bb709ad0800000000000000
+      internalID: -2697520177358319264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_44
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 824
+        width: 206
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f460dcf70dc4a75d0800000000000000
+      internalID: -3064052138091149745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 552
+        width: 144
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dc35dd513522d80800000000000000
+      internalID: -8276961811780874917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_46
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 552
+        width: 165
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f91dc4fcab8478c0800000000000000
+      internalID: -4002420593867810320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_47
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 553
+        width: 165
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e318a533a60c5bf50800000000000000
+      internalID: 6896629966748418366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_48
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 555
+        width: 167
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6819ea5eb1c7e9e0800000000000000
+      internalID: -1592090919939008404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_49
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 555
+        width: 167
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cb31c0875cf79e0800000000000000
+      internalID: -1621360221440721909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_50
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 555
+        width: 167
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de79f3122e4187830800000000000000
+      internalID: 4069025224782223341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_51
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 551
+        width: 167
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34664a76732514300800000000000000
+      internalID: 234559053515482691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_52
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 552
+        width: 165
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d3e1556c88a8d0800000000000000
+      internalID: -2834861598636256963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_53
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 554
+        width: 167
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75bf1d726e79d020800000000000000
+      internalID: 2367062040631031162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_54
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 554
+        width: 167
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696c97738f37148f0800000000000000
+      internalID: -558037368897419626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 302
+        width: 167
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f593d97a1331fd20800000000000000
+      internalID: 3310483389900101105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_56
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 302
+        width: 167
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3614f212e8bcc80800000000000000
+      internalID: -8301385214949497884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_57
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 300
+        width: 165
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fdd4c7dde945060800000000000000
+      internalID: 6941347599795216205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_58
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 299
+        width: 167
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161bce9c684d74c40800000000000000
+      internalID: 5496595545607418209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_59
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 303
+        width: 167
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e506641da1368c0800000000000000
+      internalID: -4007329757298401699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_60
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 303
+        width: 167
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51bfd85608cfea00800000000000000
+      internalID: 788068389399540060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_61
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 303
+        width: 167
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749fa0099250c57f0800000000000000
+      internalID: -622616972415534777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_62
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 301
+        width: 166
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6c46ce17b06d50800000000000000
+      internalID: 6728579186095320784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_63
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 300
+        width: 166
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd550806ff8254b0800000000000000
+      internalID: -5453137911932953134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_64
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 300
+        width: 144
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6a25bf898e71d20800000000000000
+      internalID: 3249321399920273130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 166
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d10c6a59fea1820800000000000000
+      internalID: 2889885536938368386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_66
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 206
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9b3c4de5cf4c320800000000000000
+      internalID: 2577462370989488598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_67
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 210
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145435d2f38606ec0800000000000000
+      internalID: -3575743483579513535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_68
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 169
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184c310a26e566f20800000000000000
+      internalID: 3415521145092555905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_69
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 124
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68e01fbb616aa3c0800000000000000
+      internalID: -4347555374877841299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_70
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 0
+        width: 156
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd11b252ff051970800000000000000
+      internalID: 8724897386544045559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_71
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 0
+        width: 119
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e15f2245f1e0e950800000000000000
+      internalID: 6476424707652407776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_72
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 0
+        width: 181
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0593adf7f08655ea0800000000000000
+      internalID: -5884682922310878896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_73
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 0
+        width: 225
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffd3ece7b04a2980800000000000000
+      internalID: -8562960582794027011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rollo_74
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 0
+        width: 202
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ddfe41e77fa46e0800000000000000
+      internalID: -1852396175820333682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
